@@ -1,6 +1,6 @@
 import React from 'react';
 import { useRouter } from 'next/router';
-import style from '../../styles/user.module.scss';
+import style from '../../styles/User.module.scss';
 import MainContainer from '../../components/MainContainer';
 
 export default function ({ user }) {
